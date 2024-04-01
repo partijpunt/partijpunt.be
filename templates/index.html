@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="section">
+    {% set section = get_section(path="programmas/_index.md") %}
+    <div class="row container-fluid text-center d-flex align-items-center mt-5">
+    {% for page in section.pages %}
+        <div class="col-md-4">
+            <a href="{{ page.permalink }}"><img class="img-fluid" src="assets/partijen/{{ page.slug }}/logo.svg" alt="{{ page.title }} logo"></a>
+        </div>
+    {% endfor %}
+    </div>
+</section>
+{% endblock content %}

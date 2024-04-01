@@ -1,0 +1,240 @@
+{
+    "version": 1,
+    "last_updated": "2024-03-13",
+    "elections": [
+        {
+            "date": "2024-06-09",
+            "name": "Vlaams",
+            "programs": [
+                {
+                    "parties_key": "CD&V",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Groen",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Open VLD",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Vooruit",
+                    "url": ""
+                },
+                {
+                    "parties_key": "N-VA",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Vlaams Belang",
+                    "url": ""
+                },
+                {
+                    "parties_key": "PVDA",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "date": "2024-06-09",
+            "name": "Federaal",
+            "programs": [
+                {
+                    "parties_key": "CD&V",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Groen",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Open VLD",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Vooruit",
+                    "url": ""
+                },
+                {
+                    "parties_key": "N-VA",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Vlaams Belang",
+                    "url": ""
+                },
+                {
+                    "parties_key": "PVDA",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "date": "2024-06-09",
+            "name": "Brussels",
+            "programs": [
+                {
+                    "parties_key": "CD&V",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Groen",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Open VLD",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Vooruit",
+                    "url": ""
+                },
+                {
+                    "parties_key": "N-VA",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Vlaams Belang",
+                    "url": ""
+                },
+                {
+                    "parties_key": "PVDA",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "date": "2024-06-09",
+            "name": "Europees",
+            "programs": [
+                {
+                    "parties_key": "CD&V",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Groen",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Open VLD",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Vooruit",
+                    "url": ""
+                },
+                {
+                    "parties_key": "N-VA",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Vlaams Belang",
+                    "url": ""
+                },
+                {
+                    "parties_key": "PVDA",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "date": "2024-10-13",
+            "name": "Gemeente",
+            "programs": [
+                {
+                    "parties_key": "CD&V",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Groen",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Open VLD",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Vooruit",
+                    "url": ""
+                },
+                {
+                    "parties_key": "N-VA",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Vlaams Belang",
+                    "url": ""
+                },
+                {
+                    "parties_key": "PVDA",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "date": "2024-10-13",
+            "name": "Provincie",
+            "programs": [
+                {
+                    "parties_key": "CD&V",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Groen",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Open VLD",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Vooruit",
+                    "url": ""
+                },
+                {
+                    "parties_key": "N-VA",
+                    "url": ""
+                },
+                {
+                    "parties_key": "Vlaams Belang",
+                    "url": ""
+                },
+                {
+                    "parties_key": "PVDA",
+                    "url": ""
+                }
+            ]
+        }
+    ],
+    "parties": {
+        "CD&V": {
+            "homepage_url": "https://www.cdenv.be",
+            "positions_url": "https://www.cdenv.be/alle_standpunten"
+        },
+        "Groen": {
+            "homepage_url": "https://www.groen.be",
+            "positions_url": "https://www.groen.be/standpunten"
+        },
+        "N-VA": {
+            "homepage_url": "https://www.n-va.be",
+            "positions_url": "https://n-va.be/standpunten"
+        },
+        "Open VLD": {
+            "homepage_url": "https://www.openvld.be",
+            "positions_url": "https://www.openvld.be/standpunten"
+        },
+        "PVDA": {
+            "homepage_url": "https://www.pvda.be/",
+            "positions_url": "https://www.pvda.be/programma"
+        },
+        "Vlaams Belang": {
+            "homepage_url": "https://www.vlaamsbelang.org",
+            "positions_url": "https://www.vlaamsbelang.org/programma"
+        },
+        "Vooruit": {
+            "homepage_url": "https://www.vooruit.org",
+            "positions_url": "https://www.vooruit.org/standpunten"
+        }
+    }
+}

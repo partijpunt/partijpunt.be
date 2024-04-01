@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="row justify-content-center">
+  <div class="col-md-8">
+    <div style="text-align: center;">
+      <img style="width: 150px; margin-top: 10px; margin-bottom: 20px;" src="/assets/partijen/{{ page.slug }}/logo.svg" alt="{{ page.title }} logo">
+    </div>
+    {{ page.content | safe }}
+    <p>bron: <a href="{{ page.extra.source }}">{{ page.extra.source }}</a></p>
+  </div>
+</div>
+{% endblock content %}
